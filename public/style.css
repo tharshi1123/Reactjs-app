@@ -1,0 +1,20 @@
+a.active{
+    color: black !important;
+    text-decoration: underline !important;
+}
+
+h1{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  color:black;
+}
+
+p{
+  font-size: 15px;
+}
+
+img{
+  width: 600px;
+  height: 400px;
+}
