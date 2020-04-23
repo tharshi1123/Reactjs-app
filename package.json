@@ -26,8 +26,7 @@
     "react-dom": "^15.3.0",
     "react-router": "^2.6.1",
     "engines": {
-	"node": "6.10.1"
-  }
-
+      "node": "6.10.1"
+    }
   }
 }
